@@ -1,0 +1,108 @@
+Countries/Regions	2000	2005	2010	2015	2017
+Afghanistan	1450	1140	954	701	638
+Angola	827	519	326	251	241
+Argentina	66	59	51	41	39
+Australia	7	5	5	6	6
+Bangladesh	434	343	258	200	173
+Belgium	8	7	6	5	5
+Benin	520	500	464	421	397
+Brazil	69	71	65	63	60
+Burkina Faso	516	437	385	343	320
+Burundi	1010	814	665	568	548
+Cameroon	886	692	597	554	529
+Canada	9	11	11	11	10
+Central African Republic	1280	1200	1000	912	829
+Chad	1420	1330	1240	1160	1140
+Chile	31	25	20	14	13
+China	59	44	36	30	29
+Congo	739	677	506	416	378
+Côte d'Ivoire	704	704	701	658	617
+Cuba	46	41	41	38	36
+Democratic People's Republic of Korea	139	120	106	91	89
+Democratic Republic of the Congo	760	627	542	490	473
+Denmark	8	6	5	4	4
+Djibouti	507	393	283	247	248
+Egypt	64	52	45	39	37
+Eritrea	1280	804	567	518	480
+Ethiopia	1030	865	597	446	401
+Finland	6	5	4	3	3
+France	10	9	9	8	8
+Gambia	932	756	661	625	597
+Germany	7	6	6	5	7
+Greece	3	3	3	3	3
+Guinea	1020	920	747	699	576
+Guinea-Bissau	1210	979	779	694	667
+Iceland	6	5	5	4	4
+India	370	286	210	158	145
+Indonesia	272	252	228	192	177
+Iran (Islamic Republic of)	48	34	22	17	16
+Iraq	79	127	70	83	79
+Ireland	7	7	6	6	5
+Israel	7	5	4	3	3
+Italy	4	3	2	2	2
+Japan	9	7	6	5	5
+Kenya	708	618	432	353	342
+Lao People's Democratic Republic	544	410	292	209	185
+Lesotho	614	679	594	574	544
+Liberia	894	816	708	691	661
+Luxembourg	10	9	8	5	5
+Madagascar	559	526	453	363	335
+Malawi	749	610	444	370	349
+Malaysia	38	31	30	30	29
+Mali	836	691	660	620	562
+Malta	9	8	8	7	6
+Mauritania	834	826	824	785	766
+Mexico	55	54	46	36	33
+Mozambique	798	577	412	318	289
+Nepal	553	415	305	236	186
+Netherlands	13	11	7	6	5
+New Zealand	12	11	11	10	9
+Niger	813	755	663	555	509
+Nigeria	1200	1080	978	931	917
+Norway	6	5	4	3	2
+Pakistan	286	237	191	154	140
+Poland	7	4	3	2	2
+Portugal	10	9	9	9	8
+Puerto Rico	26	23	21	20	21
+Republic of Korea	17	15	15	12	11
+Russian Federation	56	42	25	18	17
+Rwanda	1160	643	373	275	248
+Saudi Arabia	24	22	19	17	17
+Sierra Leone	2480	1760	1360	1180	1120
+Singapore	13	13	10	9	8
+Somalia	1210	1040	985	855	829
+South Africa	160	201	171	125	119
+South Sudan	1730	1480	1100	1110	1150
+Spain	5	5	4	4	4
+Sri Lanka	56	45	38	36	36
+State of Palestine	70	59	45	32	27
+Sudan	667	529	408	320	295
+Eswatini	521	532	450	435	437
+Sweden	5	5	4	4	4
+Switzerland	7	7	6	5	5
+Syrian Arab Republic	26	25	27	30	31
+Timor-Leste	745	415	219	160	142
+Togo	489	492	440	398	396
+Turkey	42	33	24	19	17
+Uganda	578	491	430	387	375
+Ukraine	35	33	25	21	19
+United Arab Emirates	6	5	4	3	3
+United Kingdom	10	11	10	8	7
+United Republic of Tanzania	854	721	644	556	524
+United States	12	13	15	18	19
+Zambia	528	421	305	232	213
+Zimbabwe	579	685	598	480	458
+UNICEF Regions	2000	2005	2010	2015	2017
+East Asia and the Pacific	114	100	86	73	69
+Europe and Central Asia	27	22	17	14	13
+Eastern Europe and Central Asia	45	36	26	20	19
+Western Europe	8	7	6	6	5
+Latin America and Caribbean	96	91	85	77	74
+Middle East and North Africa	95	81	63	59	57
+North America	12	13	14	17	18
+South Asia	395	309	235	179	163
+Sub-Saharan Africa	870	746	626	557	533
+Eastern and Southern Africa	780	645	494	406	384
+West and Central Africa	962	847	755	699	674
+Least developed countries	763	635	520	442	415
+World	342	296	248	219	211
